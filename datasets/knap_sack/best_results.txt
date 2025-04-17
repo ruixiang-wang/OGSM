@@ -1,0 +1,5 @@
+ks_10.txt: 79
+ks_12.txt: 134
+ks_15.txt: 153
+ks_17.txt: 142
+ks_20.txt: 172
